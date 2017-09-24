@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+
+
+<html>
+    
+    <head>
+        
+        <title>
+         TEN PRINCIPLES FOR GOOD DESIGN
+            </title>
+       <link  rel="stylesheet" href="css-11">
+	</head>
+		
+		<body>
+			 <div id="abb" ><font style="color: crimson">1
+			</font></div> 
+			 <div id="abc" ><font style="color: crimson">2
+			</font></div> 
+			<div id="abd" ><font style="color: crimson">3
+			</font></div>  <div id="abe" ><font style="color: crimson">4
+			</font></div>  <div id="abf" ><font style="color: crimson">5
+			</font></div>  <div id="abg" ><font style="color: crimson">6
+			</font></div>  <div id="abh" ><font style="color: crimson">7
+			</font></div>  <div id="abi" ><font style="color: crimson">8
+			</font></div>  <div id="abj" ><font style="color: crimson">9
+			</font></div> 
+        <div id="custom" ><font style="color: crimson">10
+			</font></div>   
+				
+        <div id="aaa" ><font style="color: blueviolet">PRINCIPLES
+			</font></div>  
+			    <div id="bbb" ><font style="color: cadetblue">FOR GOOD DESIGN
+			</font></div> 
+			<a href="ruoyin%20wang%20web12"style="color:white"><text>Dieter Rams</text></a>
+			
+    </body>
+
+
+
+</html>
+    

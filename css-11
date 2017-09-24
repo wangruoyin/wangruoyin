@@ -1,0 +1,155 @@
+#abb{
+	position:absolute;
+	top:40px;
+width: 1400px;
+	height: 40px;
+	text-align: center;
+	font-family:cursive;
+	text-transform:full-width;
+	font-size: 200px;
+	padding: 20px;
+}
+
+#abc{
+	position:absolute;
+	top:200px;
+width: 1400px;
+	height: 40px;
+	text-align: center;
+	font-family:fantasy;
+	text-transform: capitalize;
+	font-size: 200px;
+	padding: 20px;
+}
+
+#abd{
+	position:absolute;
+	top:360px;
+width: 1400px;
+	height: 40px;
+	text-align: center;
+	font-family:inherit;
+	text-transform: capitalize;
+	font-size: 200px;
+	padding: 20px;
+}
+#abe{
+	position:absolute;
+	top:520px;
+width: 1400px;
+	height: 40px;
+	text-align: center;
+	font-family:inherit;
+	text-transform:lowercase;
+	font-size: 200px;
+	padding: 20px;
+}
+#abf{
+	position:absolute;
+	top:670px;
+width: 1400px;
+	height: 40px;
+	text-align: center;
+	font-family:fantasy;
+	text-transform:uppercase;
+	font-size: 200px;
+	padding: 20px;
+}
+#abg{
+	position:absolute;
+	top:820px;
+width: 1400px;
+	height: 40px;
+	text-align: center;
+	font-family:monospace;
+	text-transform: capitalize;
+	font-size: 170px;
+	padding: 20px;
+}
+#abh{
+	position:absolute;
+	top:970px;
+width: 1400px;
+	height: 40px;
+	text-align: center;
+	font-family:fantasy;
+	text-transform: capitalize;
+	font-size: 150px;
+	padding: 20px;
+}
+#abi{
+	position:absolute;
+	top:1100px;
+width: 1400px;
+	height: 40px;
+	text-align: center;
+	font-family:sans-serif;
+	text-transform: capitalize;
+	font-size: 170px;
+	padding: 20px;
+}
+#abj{
+	position:absolute;
+	top:1240px;
+width: 1400px;
+	height: 40px;
+	text-align: center;
+	font-family:fantasy;
+	text-transform: capitalize;
+	font-size: 200px;
+	padding: 20px;
+}
+
+
+
+
+#custom{
+	position:absolute;
+	top:1430px;
+width: 1400px;
+	height: 40px;
+	text-align: center;
+	font-family:fantasy;
+	text-transform: capitalize;
+	font-size: 200px;
+	padding: 20px;
+}
+
+#aaa{
+		position:absolute;
+	top:1670px;
+width: 1400px;
+	height: 40px;
+	text-align: center;
+	font-family:monospace;
+	text-transform: capitalize;
+	font-size: 80px;
+	padding: 20px;
+}
+#bbb{
+		position:absolute;
+	top:1800px;
+width: 1400px;
+	height: 40px;
+	text-align: center;
+	font-family:sans-serif;
+	text-transform:uppercase;
+	font-size: 60px;
+	padding: 20px;
+}
+text{
+	position:absolute;
+	top:1930px;
+	left :460px;
+width: 500px;
+	height: 40px;
+
+	
+	font-family:serif;
+	text-transform:capitalize;
+	background-color: darkorange;
+	padding: 10px;
+	text-align: center;
+	font-size: 40px;
+	padding: 20px;
+}

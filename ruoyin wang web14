@@ -1,0 +1,53 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<meta charset="utf-8" /> 
+<title></title> 
+</head> 
+ <link  rel="stylesheet" href="css-14">
+<body> 
+<div id="aaa">10 PRINCIPLES FOR GOOD DESIGN</div>
+		
+			<ul>
+			<div id="custom">
+			<li>Good design is innovative.</li>
+				
+				<li>Good design makes a product useful.</li>
+				<li>Good design is aesthetic.</li>
+				<li>Good design makes a product </li>
+			<li>Good design is unobtrusive. </li>
+				<li>Good design is honest. </li>
+				<li>Good design is long-lasting. </li>
+					<li>Good design is thorough down to the last detail. </li>
+				<li>Good design is environmentally friendly. </li>
+				<li>Good design is as little design as possible. </li>
+				</div>
+			</ul>
+			
+		<div id="bbb">The possibilities for innovation are not, by any means, exhausted. Technological development is always offering new opportunities for innovative design. But innovative design always develops in tandem with innovative technology, and can never be an end in itself.</div>	
+	<div id="ccc">A product is bought to be used. It has to satisfy certain criteria, not only functional, but also psychological and aesthetic.
+		<br><br>Good design emphasises the usefulness of a product whilst disregarding anything that could possibly detract from it.
+		<br><br>The aesthetic quality of a product is integral to its usefulness because products we use every day affect our person and our well-being. 
+		<br><br>But only well-executed objects can be beautiful.<br><br>It clarifies the product’s structure. Better still, it can make the product talk. At best, it is self-explanatory.</div>
+		
+	<p> 
+<img src="https://s3-eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2016/08/31154910/channel4-889x500.jpg
+" width="100%" height="100%" /> 
+		
+</p>
+	
+	<p> 
+<img src="https://blog.marvelapp.com/wp-content/uploads/2016/09/Data-informed-Design.jpg" width="100%" height="100%" /> 
+</p> 
+	 
+	<p> 
+<img src="http://old.bz55.com/uploads/allimg/140707/138-140FG14403-50.jpg
+		  " width="100%" height="100%" /> </p>
+	<div ID="ddd"> <br><br>GOOD <br>DESIGN</div>
+	<p class="eee">Products fulfilling a purpose are like tools. They are neither decorative objects nor works of art. Their design should therefore be both neutral and restrained, to leave room for the user’s self-expression.</p>
+	<a href="ruoyin%20wang%20web15"><h1><font style="color:black">GO</font></h1></a>
+
+
+	
+</body> 
+</html> 

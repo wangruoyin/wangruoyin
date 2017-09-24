@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+
+
+<html>
+    
+    <head>
+        
+        <title>
+         TEN PRINCIPLES FOR GOOD DESIGN
+            </title>
+       <link  rel="stylesheet" href="css-12">
+	</head>
+		
+		<body>
+					<div id="custom">     <a href="ruoyin%20wang%20web13" style="color:black"><butoon>TEN PRINCIPLES FOR GOOD DESIGN</butoon></a></div>
+			<h1></h1>
+			<h2></h2>
+			<text>Good design is innovative.
+The possibilities for innovation are not, by any means, exhausted. Technological development is always offering new opportunities for innovative design. But innovative design always develops in tandem with innovative technology, and can never be an end in itself.</text>
+			<div id="aaa">Good design is aesthetic.
+The aesthetic quality of a product is integral to its usefulness because products we use every day affect our person and our well-being. But only well-executed objects can be beautiful.</div>
+			<div id="ddd">Products fulfilling a purpose are like tools. They are neither decorative objects nor works of art. Their design should therefore be both neutral and restrained, to leave room for the user’s self-expression.</div>
+			<div id="eee">It avoids being fashionable and therefore never appears antiquated. Unlike fashionable design, it lasts many years – even in today’s throwaway society.</div>
+			
+			<p>Good design makes a product useful.
+A product is bought to be used. It has to satisfy certain criteria, not only functional, but also psychological and aesthetic. Good design emphasises the usefulness of a product whilst disregarding anything that could possibly detract from it.</p>
+			<div id="bbb">Good design makes a product understandable.
+It clarifies the product’s structure. Better still, it can make the product talk. At best, it is self-explanatory.</div>
+			<div id="ccc">It does not make a product more innovative, powerful or valuable than it really is. It does not attempt to manipulate the consumer with promises that cannot be kept.</div>
+			<div id="ggg">Good design is thorough down to the last detail.
+Nothing must be arbitrary or left to chance. Care and accuracy in the design process show respect towards the consumer.</div>
+			<font style="color: white">Dieter Rams</font>
+			   <h5></h5>
+			
+    </body>
+
+
+
+</html>
+    

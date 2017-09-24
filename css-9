@@ -1,0 +1,107 @@
+body{
+background-color:cadetblue;
+	
+}
+	h5{
+		position:absolute;
+		top:140px;
+		left:100px;}
+		
+h4{
+	position: absolute;
+	top:140px;
+	left:1092px;
+	border-color: black ;
+	border-style: solid;
+	padding: 10px;
+}
+h6{
+position: absolute;
+	top:250px;
+	left:840px;
+	width: 400px;
+
+}
+#custom{
+	position: absolute;
+	top:350px;
+	left:840px;
+	width: 400px;
+}
+#aaa{
+	position: absolute;
+	top:260px;
+	left:100px;
+	width: 600px;
+	border-color: black ;
+	border-style: solid;
+	padding: 30px;
+
+}
+h1{
+	position: absolute;
+	top:600px;
+	left:100px;
+	width: 600px;
+	
+}
+#bbb{
+	position: absolute;
+	top:600px;
+	left:500px;
+	width: 700px;
+	border-color: black ;
+	border-style: solid;
+	padding: 30px;
+}
+h2{
+	position: absolute;
+	top:730px;
+	left:260px;
+	width: 200px;
+	height: 200px;
+	border-color: black ;
+	border-style:dotted;
+	padding: 30px;
+}
+#ddd{
+	position: absolute;
+	top:170px;
+	left:370px;
+	width: 600px;
+	
+}
+#eee{
+	position: absolute;
+	top:1100px;
+	left:90px;
+	width: 400px;
+	height: 190px;
+	border-color: black ;
+	border-style:ridge;
+	padding: 30px;
+
+}
+#fff{
+	
+	position: absolute;
+	top:1050px;
+	left:530px;
+	width: 700px;
+	height: 170px;
+	border-color: black ;
+	border-style:dashed;
+	padding: 30px;
+}
+#hhh{
+	position: absolute;
+	top:800px;
+	left:600px;
+	width: 110px;
+	height: 60px;
+	background-color: crimson;
+	
+	
+}
+	
+}

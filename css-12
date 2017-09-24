@@ -1,0 +1,158 @@
+body{
+	background-color: darkorange;
+	background-size: 3000px;
+}
+
+
+text{
+	position:absolute;
+	top:250px;
+	left:150px;
+	width: 350px;
+	height: 180px;
+    font-size: 20px;
+text-transform: capitalize;
+	font-family: fantasy;
+	}
+#aaa{
+		position:absolute;
+	top:700px;
+	left:150px;
+	width: 350px;
+	height: 180px;
+    font-size: 20px;
+text-transform:lowercase;
+	font-family:inherit;
+	
+}
+#ddd{
+	
+		position:absolute;
+	top:1100px;
+	left:150px;
+	width: 350px;
+	height: 180px;
+    font-size: 20px;
+text-transform:none;
+	font-family:inherit;
+	
+}
+#ggg{
+	
+	
+	
+		position:absolute;
+	top:1500px;
+	left:150px;
+	width: 350px;
+	height: 180px;
+    font-size: 30px;
+text-transform:none;
+	font-family:fantasy;
+	
+
+}
+h1{
+	
+	position:fixed;
+	top:200px;
+	left:90px;
+	width: 350px;
+	height: 180px;
+   border-color: white;
+	border-style:dashed;
+	padding: 50px;
+	
+	
+}
+h2{
+	
+	position:fixed;
+	top:200px;
+	left:880px;
+	width: 350px;
+	height: 180px;
+   border-color: white;
+	border-style:dashed;
+	padding: 50px;
+	
+	
+}
+p{
+	
+	position:absolute;
+	top:230px;
+	left:930px;
+	width: 350px;
+	height: 180px;
+    font-size: 20px;
+text-transform:lowercase;
+	font-family: fantasy;
+}
+#bbb{
+	position:absolute;
+	top:700px;
+	left:930px;
+	width: 350px;
+	height: 180px;
+    font-size: 20px;
+text-transform:uppercase;
+	font-family:monospace;
+	
+}
+
+#ccc{
+	
+	
+		position:absolute;
+	top:1100px;
+	left:930px;
+	width: 350px;
+	height: 180px;
+    font-size: 20px;
+text-transform:capitalize;
+	font-family:monospace;
+	
+}
+#eee{
+		position:absolute;
+	top:1500px;
+	left:930px;
+	width: 350px;
+	height: 180px;
+    font-size: 30px;
+text-transform:lowercase;
+	font-family:cursive;
+	
+	
+}
+#custom{
+	position:fixed;
+	top:500px;
+	left:595px;
+	width: 200px;
+	height: 180px;
+text-align: center;
+text-transform: capitalize;
+	font-family: cursive;
+	background-color:white;
+	font-size: 30px;
+	padding: 20px;
+	}
+
+
+font{
+	
+	position:absolute;
+	top:100px;
+	left:100px;
+	
+}
+h5{
+	position:absolute;
+	top:1800px;
+	left:90px;
+	width: 350px;
+	height: 180px;
+   
+}
